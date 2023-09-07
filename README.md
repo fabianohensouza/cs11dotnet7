@@ -1,3 +1,4 @@
+[Studying C# 11 - By FHS]
 [Improvements & Errata - list of corrections](docs/errata)
 
 # C# 11 and .NET 7 - Modern Cross-Platform Development Fundamentals, Seventh Edition
